@@ -1,4 +1,4 @@
-# 3D-Number-Renderer-with-UMAP
+# 3D Number Visualizer With The UMAP Algorithm
 A toolkit for visualizing the number factorization in a traversable 3-dimensional space utilizing the UMAP algorithm with Python and OpenGL.
 
 mapper.py for generating the data
