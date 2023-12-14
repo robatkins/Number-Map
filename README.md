@@ -10,3 +10,6 @@ First we factorize numbers and represent them into N-dimensional vectors, next w
 
 
 Numbers are colored based on the number of neighbors.
+
+
+Stand out prime numbers form a spherical structure.
