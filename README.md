@@ -1,2 +1,7 @@
-# Number Map
- A toolkit for visualizing the natural numbers in a 3-dimensional space.
+# 3D-Number-Renderer-with-UMAP
+A toolkit for visualizing the number factorization in a traversable 3-dimensional space utilizing UMAP with Python and OpenGL.
+
+mapper.py for generating data
+data_loader.py for loading data
+
+![umap_renderer](/screenshot/0.jpg)
